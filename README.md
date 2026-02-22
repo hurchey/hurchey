@@ -1,125 +1,80 @@
-# My Project Collection 🚀
+# Hi, I'm Eric Hurchey 👋
 
-Welcome to my collection of diverse projects! This repository serves as a portfolio of various programming experiments, tools, and applications I've built across different technologies and domains.
-
-## 📂 Project Categories
-
-### 🌐 Web Applications
-- **URL Shortener** (`/web/url-shortener`) - A Go-based URL shortening service
-- **Weather Dashboard** (`/web/weather-app`) - React weather application using OpenWeather API
-- **Task Manager** (`/web/task-manager`) - Full-stack task management application using Node.js
-
-### 🤖 Machine Learning
-- **Image Classifier** (`/ml/image-classifier`) - CNN model for basic image classification
-- **Sentiment Analysis** (`/ml/sentiment`) - Twitter sentiment analysis using NLTK
-- **Stock Predictor** (`/ml/stock-predictor`) - Time series analysis for stock prediction
-
-### 🎮 Games
-- **Snake Game** (`/games/snake`) - Classic snake game in Python using Pygame
-- **Tic Tac Toe** (`/games/tictactoe`) - Terminal-based tic tac toe with AI opponent
-- **Memory Match** (`/games/memory`) - Browser-based memory matching game
-
-### 🛠️ Utilities
-- **File Organizer** (`/utils/file-organizer`) - Python script to organize files by type
-- **PDF Merger** (`/utils/pdf-tools`) - Tool for merging and splitting PDFs
-- **Data Scraper** (`/utils/web-scraper`) - Web scraping utilities for various purposes
-
-## 🚀 Getting Started
-
-Each project has its own directory with a dedicated README containing specific setup instructions. Generally:
-
-1. Navigate to the project directory:
-   ```bash
-   cd project-category/project-name
-   ```
-
-2. Check the project's README.md for:
-   - Prerequisites
-   - Installation steps
-   - Usage instructions
-   - Additional documentation
-
-## 💻 Technologies Used
-
-### Languages
-- Python
-- JavaScript/TypeScript
-- Go
-- Java
-- C++
-
-### Frameworks & Libraries
-- React
-- Node.js
-- TensorFlow
-- PyTorch
-- Django
-- Flask
-
-### Tools & Platforms
-- Docker
-- AWS
-- MongoDB
-- PostgreSQL
-- Redis
-
-## 📈 Project Status
-
-| Project | Status | Last Updated |
-|---------|--------|--------------|
-| URL Shortener | ✅ Complete | 2024-01 |
-| Weather Dashboard | 🚧 In Progress | 2024-02 |
-| Image Classifier | ✅ Complete | 2023-12 |
-| Snake Game | ✅ Complete | 2023-11 |
-| Task Manager | 🚧 In Progress | 2024-02 |
-
-## 🤝 Contributing
-
-Interested in contributing? Great! Follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
-
-## 📝 Project Structure
-
-```
-.
-├── web/
-│   ├── url-shortener/
-│   ├── weather-app/
-│   └── task-manager/
-├── ml/
-│   ├── image-classifier/
-│   ├── sentiment/
-│   └── stock-predictor/
-├── games/
-│   ├── snake/
-│   ├── tictactoe/
-│   └── memory/
-└── utils/
-    ├── file-organizer/
-    ├── pdf-tools/
-    └── web-scraper/
-```
-
-## 📜 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-- GitHub: [@hurchey](https://github.com/hurchey)
-- Email: eric.hurchey@gmail.com
-- LinkedIn: [hurchey](https://linkedin.com/in/hurchey)
-
-## ⭐ Support
-
-If you find any of these projects helpful, please consider giving them a star! Also, feel free to open issues for any bugs or feature requests.
+🎓 CS + Math graduate from Brandeis University (Dean’s List)  
+💻 Software engineer focused on building user-facing products, AI-powered tools, and scalable web apps  
+🚀 Interested in product-minded engineering, AI workflows, and fast-moving startup environments
 
 ---
 
-**Note:** Each project in this repository is maintained independently and may have its own specific license, requirements, and contribution guidelines. Please check individual project directories for more detailed information.
+## About Me
+
+I'm a software engineer who enjoys building products that are both technically strong and genuinely useful.  
+My experience spans AI-powered tools, full-stack web development, IT systems support, and student mentorship.
+
+I’ve worked on:
+- **AI-driven education tooling** (PDF → adaptive tests)
+- **E-commerce product experiences** (filters, feedback, merchant migration)
+- **Campus mobile apps** (React Native + Node/Express)
+- **Workflow automation + systems troubleshooting** (ticket triage, escalation, root cause analysis)
+
+---
+
+## Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- Java
+- HTML/CSS
+- C
+- Go
+
+### Frameworks / Libraries
+- React
+- Next.js
+- React Native
+- Node.js / Express
+- FastAPI
+- Flask
+- Vue
+- Liquid
+
+### Data / Storage
+- PostgreSQL
+- MySQL
+- MongoDB
+- AWS S3
+
+### Systems / Dev Tools
+- Linux / Unix
+- Docker
+- GitHub Actions
+- CI/CD
+- OAuth / JWT
+- Git / GitHub
+- Jira
+- Notion
+- Bash / Zsh
+
+---
+
+## What I’m Focused On
+
+- Building AI-powered developer and productivity tools
+- Shipping clean, reliable full-stack product features
+- Growing as a product-minded engineer in startup environments
+- Exploring the intersection of software engineering + AI workflows
+
+---
+
+## Connect With Me
+
+- 📧 **Email:** eric.hurchey@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/hurchey](https://linkedin.com/in/hurchey)
+- 🐙 **GitHub:** [github.com/hurchey](https://github.com/hurchey)
+- 🌐 **Portfolio:** [hurchey.github.io](https://hurchey.github.io/)
+
+---
+
+⭐ Thanks for stopping by!
