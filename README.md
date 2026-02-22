@@ -1,25 +1,28 @@
 # Hi, I'm Eric Hurchey 👋
 
 🎓 CS + Math graduate from Brandeis University (Dean’s List)  
-💻 Software engineer focused on building user-facing products, AI-powered tools, and scalable web apps  
-🚀 Interested in product-minded engineering, AI workflows, and fast-moving startup environments
+💻 Software Engineer focused on building full-stack products, backend APIs, and AI-powered tools  
+🚀 Interested in scalable systems, great user experiences, and fast-moving startup teams
 
 ---
 
 ## About Me
 
 I'm a software engineer who enjoys building products that are both technically strong and genuinely useful.  
-My experience spans AI-powered tools, full-stack web development, IT systems support, and student mentorship.
+My experience spans full-stack web development, AI-powered tooling, IT systems support, and student mentorship.
 
-I’ve worked on:
-- **AI-driven education tooling** (PDF → adaptive tests)
-- **E-commerce product experiences** (filters, feedback, merchant migration)
-- **Campus mobile apps** (React Native + Node/Express)
-- **Workflow automation + systems troubleshooting** (ticket triage, escalation, root cause analysis)
+I’m especially interested in SWE roles where I can:
+- Build and ship user-facing features end-to-end
+- Improve backend reliability, performance, and developer workflows
+- Work closely with product/design to solve real user problems
 
 ---
 
 ## Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### Languages
 - JavaScript
@@ -29,6 +32,9 @@ I’ve worked on:
 - HTML/CSS
 - C
 - Go
+
+    </td>
+    <td valign="top" width="50%">
 
 ### Frameworks / Libraries
 - React
@@ -40,11 +46,19 @@ I’ve worked on:
 - Vue
 - Liquid
 
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
 ### Data / Storage
 - PostgreSQL
 - MySQL
 - MongoDB
 - AWS S3
+
+    </td>
+    <td valign="top" width="50%">
 
 ### Systems / Dev Tools
 - Linux / Unix
@@ -57,14 +71,18 @@ I’ve worked on:
 - Notion
 - Bash / Zsh
 
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## What I’m Focused On
 
+- Building clean, reliable full-stack product features
+- Designing backend APIs and data flows for scalability
 - Building AI-powered developer and productivity tools
-- Shipping clean, reliable full-stack product features
-- Growing as a product-minded engineer in startup environments
-- Exploring the intersection of software engineering + AI workflows
+- Growing as a product-minded software engineer in startup environments
 
 ---
 
