@@ -69,7 +69,6 @@ I’m especially interested in SWE roles where I can:
 
 - 📧 **Email:** eric.hurchey@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/hurchey](https://linkedin.com/in/hurchey)
-- 🐙 **GitHub:** [github.com/hurchey](https://github.com/hurchey)
 - 🌐 **Portfolio:** [hurchey.github.io](https://hurchey.github.io/)
 
 ---
